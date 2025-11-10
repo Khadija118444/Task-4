@@ -1,0 +1,109 @@
+body {
+    font-family: "Trebuchet MS", sans-serif;
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #ffffff;
+    border: 2px solid #bcd;
+    padding: 20px;
+}
+
+#header {
+    background-color: #cfeaea;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+    #header h1 {
+        margin: 0;
+        color: deepskyblue;
+        font-weight: bold;
+    }
+
+    #header h3 {
+        font-style: italic;
+        color: deepskyblue;
+    }
+
+#sidebar {
+    float: left;
+    width: 25%;
+    background-color: #d6f2f2;
+    border: 1px solid #bcd;
+    border-radius: 6px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+    #sidebar h2 {
+        color: deepskyblue;
+        text-align: center;
+    }
+
+    #sidebar ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    #sidebar li a {
+        color: red;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+#content {
+    float: right;
+    width: 70%;
+}
+
+.entry {
+    border: 1px solid #bcd;
+    background-color: cornflowerblue;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+    .entry h2 {
+        color: red;
+        font-weight: bold;
+    }
+
+    .entry .date {
+        color: red;
+        font-weight: normal;
+    }
+
+    .entry img {
+        float: right;
+        width: 120px;
+        height: auto;
+        margin-left: 10px;
+        border-radius: 4px;
+    }
+
+#footer {
+    clear: both;
+    text-align: center;
+    padding: 10px;
+    color: cornflowerblue;
+    font-size: 14px;
+}
+
+style.css
+Displaying style.css.
+Lab 10
+Rushda Muneer
+•
+Oct 27
+Due Oct 27, 11:59 ?PM
+Lab_9_HTML_and_CSS.docx
+Microsoft Word
+
+Class comments
